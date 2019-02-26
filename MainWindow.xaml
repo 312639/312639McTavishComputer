@@ -1,0 +1,27 @@
+﻿<Window x:Class="_312639McTavishComputer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_312639McTavishComputer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="810">
+    <Canvas Margin="0,0,4,0">
+        <Label FontSize="18" Canvas.Left="315">McTavish's Computer</Label>
+        <Button x:Name="btnCPU" Content="CPU" Click="BtnCPU_Click" Height="50" Width="100" Canvas.Top="45" Canvas.Left="30" Background="Orange"/>
+        <Button x:Name="btnMotherboad" Content="Motherboard" Click="BtnMotherboad_Click" Height="50" Width="100" Canvas.Top="45" Canvas.Left="160" Background="Orange"/>
+        <Button x:Name="btnRAM" Content="RAM" Click="BtnRAM_Click" Height="50" Width="100" Canvas.Top="45" Canvas.Left="290" Background="Orange"/>
+        <Button x:Name="btnStorageSSD" Content="Storage SSD" Click="BtnStorageSSD_Click" Height="50" Width="100" Canvas.Top="45" Canvas.Left="420" Background="Orange"/>
+        <Button x:Name="btnStorageHDD" Content="Storage HDD" Click="BtnStorageHDD_Click" Height="50" Width="100" Canvas.Top="45" Canvas.Left="550" Background="Orange"/>
+        <Button x:Name="btnCase" Content="Case" Click="BtnCase_Click" Height="50" Width="100" Canvas.Top="125" Canvas.Left="30" Background="Orange"/>
+        <Button x:Name="btnPowerSupply" Content="Power Supply" Click="BtnPowerSupply_Click" Height="50" Width="100" Canvas.Top="125" Canvas.Left="160" Background="Orange"/>
+        <Button x:Name="btnGraphicsCard" Content="Graphics Card" Click="BtnGraphicsCard_Click" Height="50" Width="100" Canvas.Top="125" Canvas.Left="290" Background="Orange"/>
+        <Button x:Name="btnOpticalDrive" Content="Optical Drive" Click="BtnOpticalDrive_Click" Height="50" Width="100" Canvas.Top="125" Canvas.Left="420" Background="Orange"/>
+        <Button x:Name="btnCPUCooler" Content="CPU Cooler" Click="BtnCPUCooler_Click" Height="50" Width="100" Canvas.Top="125" Canvas.Left="680" Background="Orange"/>
+        <Button x:Name="btnWirlessAdaptor" Content="Wirless Adaptor" Click="BtnWirlessAdaptor_Click" Height="50" Width="100" Canvas.Top="125" Canvas.Left="550" Background="Orange"/>
+        <Button x:Name="btnConverter" Content="HDMI Converter" Click="BtnConverter_Click" Height="50" Width="100" Canvas.Top="45" Canvas.Left="680" Background="Orange"/>
+        <Label x:Name="info" Content="" Canvas.Left="290" Canvas.Top="200" Height="260" Width="499" />
+        <Image x:Name="image" Height="260" Canvas.Left="10" Canvas.Top="200" Width="260" Source="" />
+
+    </Canvas>
+</Window>
