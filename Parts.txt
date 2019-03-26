@@ -1,0 +1,44 @@
+CPU i9-9900k
+The core i9 provides higher clock speeds, and core counts compared to i7, as 
+recommended by CAD programs.
+https://www.pc-canada.com/item/BX80684I99900K.html?utm_source=pcpartpicker&utm
+_medium=affiliate&utm_campaign=pcpartpicker
+ARCTIC - Liquid Freezer 240 74 CFM Liquid CPU Cooler
+No stock cooler with CPU. Water cooled gives better cooling because the core i9 
+runs hot. Also allows for overclocking.
+https://www.memoryexpress.com/Products/MX61217
+Gigabyte - Z390 GAMING X ATX LGA1151 Motherboard
+Z390 Chipset allows for overclocking with the unlocked i9 processor, dual M.2 slots allow
+for fast boot drive and easily upgradable SSD storage. Plenty of I/O including USB 3.1.
+https://www.canadacomputers.com/product_info.php?cPath=26_1207_1206_1514&item_id=128563
+Team - Vulcan 16 GB (2 x 8 GB) DDR4-2400 Memory 
+RAM 16GB recommended for most CAD software. RAM is easily upgraded later as necessary.
+https://www.newegg.ca/Product/Product.aspx?Item=N82E16820313771&nm_mc=AFC-C8JunctionCA&cm_
+mmc=AFC-C8JunctionCA-_-na-_-na-_-na&AID=10592396&PID=3938566&utm_medium=affiliates&utm_
+source=afc-PCPartPicker%2C+LLC&cjevent=e6b05207392111e982f302b30a24060e
+Western Digital - Blue 250 GB M.2-2280 Solid State Drive
+250 GB M.2 drive allows for fast boot drive. 
+ https://www.canadacomputers.com/product_info.php?cPath=179_1229_1296&item_id=114573
+Seagate - Barracuda 2 TB 3.5" 7200RPM Internal Hard Drive
+2TB Barracuda allows for reliable mass storage
+https://www.vuugo.com/seagate-hard-drives-ST2000DM006.html?tracking=5108053939762
+PNY - Quadro P2000 5 GB Video Card
+Commercial grade card recommended by most CAD programs, plus better driver support
+from manufacturer, most CAD programs are also optimised for commercial cards.
+https://www.amazon.ca/dp/B06X9Q9XW3/?tag=pcp0f-20
+Cooler Master - MasterBox E500L ATX Mid Tower Case
+Large enough for all components, has front panel USB and audio ports.
+https://www.vuugo.com/coolermaster-pc-cases-MCB-E500L-KN5N-S01.html?tracking=5108053939762
+Cooler Master - MasterWatt 550 W 80+ Bronze Certified Semi-Modular ATX Power Supply
+Semi modular allows for easy cable management. Enough wattage to run all components.
+https://www.canadacomputers.com/product_info.php?cPath=33_1238_442&item_id=120231
+LG - UH12NS40 Blu-Ray Reader, DVD/CD Writer
+Reads blu ray, DVD, and CD.
+https://www.amazon.ca/dp/B01IL02TUE/?tag=pcp0f-20
+D-Link - DWA-548 PCI-Express x1 802.11b/g/n Wi-Fi Adapter 
+Wireless adaptor as the motherboard does not have a built in one.
+https://www.mikescomputershop.com/product/574527
+AmazonBasics DisplayPort to HDMI Cable - 0.9 m  Display to HDMI cord allows for 
+fast video straight from video card to monitor, commercial video cards do not have HDMI.
+https://www.amazon.ca/dp/B015OW3GJK/?tag=pcp0f-20
+
